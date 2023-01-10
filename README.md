@@ -1,2 +1,2 @@
 # SimpleCounter
-A Simple counter, written with VueJS (vue2)
+A Simple counter written with VueJS (vue2)
